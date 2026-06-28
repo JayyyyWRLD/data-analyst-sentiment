@@ -1,0 +1,301 @@
+﻿id,komentar,cleaned_komentar,hasil_translate,score_negative,score_neutral,score_positive,compound,label
+1,"Oke aja, ga wow tapi juga ga zonk.",tidak wow tidak kecewa,"OK, not wow, but also not disappointing",0.194,0.477,0.328,0.3412,Positif
+2,"Gimana ini dong, ga sama",tidak,how is this not the same?,0.0,1.0,0.0,0.0,Netral
+3,"Kok jadi gini dong, ga pas",tidak pas,How come it's not right like this?,0.26,0.74,0.0,-0.2755,Negatif
+4,"Bagus sekali pelayanannya, bagus mengabaikan komplain!",bagus layan bagus abai komplain,"Very good, good service, ignoring complaints",0.392,0.145,0.463,0.2433,Positif
+5,Worth it lah tokonya,padan it toko,It's worth the shop,0.0,0.612,0.388,0.2263,Positif
+6,"Gimana ini deh, ga sesuai gambar",tidak sesuai gambar,How come this doesn't match the picture?,0.0,1.0,0.0,0.0,Netral
+7,Mantap banget gw kualitasnya,mantap kualitas,I really like the quality,0.0,0.589,0.411,0.4201,Positif
+8,"Bukan jelek sih, justru mantap!",bukan jelek mantap,"It's not bad, it's actually great",0.0,0.365,0.635,0.7876,Positif
+9,"Nyesel? Iya, nyesel ga beli dari dulu! Bagus banget!",sesal iya sesal tidak beli bagus,"I regret it, I regret not buying it sooner, it's really good",0.315,0.506,0.179,-0.3415,Negatif
+10,Cukup memuaskan,muas,quite satisfying,0.0,0.233,0.767,0.5095,Positif
+11,Memuaskan! Produk sesuai harapan dan tahan lama.,muas produk sesuai harap tahan,satisfying product as expected and long lasting,0.0,0.667,0.333,0.4588,Positif
+12,Mengecewakan ekspektasi karena terlalu bagus!,kecewa ekspektasi bagus,disappointed expectations because it was too good,0.282,0.455,0.264,-0.0516,Negatif
+13,Senang nih kualitasnya,senang kualitas,I'm happy with the quality,0.0,0.519,0.481,0.5719,Positif
+14,Senang sih barangnya,senang barang,I'm happy with the item,0.0,0.519,0.481,0.5719,Positif
+15,"Kenapa bisa gini nih, kecewa parah",kecewa parah,"why is it like this, I'm so disappointed",0.32,0.48,0.2,-0.3593,Negatif
+16,Memuaskan gitu tokonya,muas toko,satisfying so shop,0.0,0.4,0.6,0.4588,Positif
+17,"Gimana ini dong, ga sesuai gambar",tidak sesuai gambar,How come this doesn't match the picture?,0.0,1.0,0.0,0.0,Netral
+18,Top banget nih barangnya,baik barang,this is the best thing,0.0,0.488,0.512,0.6369,Positif
+19,"Bukan cacat kok, malah oke!",bukan cacat,"It's not a defect, it's actually good",0.0,0.503,0.497,0.6041,Positif
+20,Senang banget deh barangnya,senang barang,I'm very happy with the item,0.0,0.556,0.444,0.6115,Positif
+21,"Kenapa bisa gini ya, ga sesuai foto",tidak sesuai foto,"why is it like this, it doesn't match the photo",0.0,0.783,0.217,0.3612,Positif
+22,Palsu? Justru original 100%!,palsu original,fake is actually original,0.419,0.27,0.311,-0.2023,Negatif
+23,"Kenapa jadi gini sih, ga sesuai warna",tidak sesuai warna,"why is it like this, it doesn't match the color?",0.0,0.783,0.217,0.3612,Positif
+24,Oke lah pelayanannya,layan,good service,0.0,0.256,0.744,0.4404,Positif
+25,Recommended emang kualitasnya,rekomendasi kualitas,Recommended indeed quality,0.0,0.526,0.474,0.2023,Positif
+26,Keren sih pokoknya,keren pokok,it's really cool,0.0,0.435,0.565,0.3804,Positif
+27,Senang pokoknya tokonya,senang pokok toko,really happy with the shop,0.0,0.5,0.5,0.6115,Positif
+28,"Kenapa gini sih, ga sesuai ukuran",tidak sesuai ukur,why is this not the right size?,0.0,1.0,0.0,0.0,Netral
+29,Worth it banget ini kualitasnya,padan it kualitas,worth it really is this quality,0.0,0.725,0.275,0.2263,Positif
+30,"Ga murahan sama sekali, bagus!",tidak murah bagus,not cheap at all good,0.0,0.58,0.42,0.4404,Positif
+31,Produk excellent! Sudah order 3x tidak pernah mengecewakan.,produk excellent order x tidak kecewa,"Excellent product, ordered x, never disappoints",0.0,0.405,0.595,0.7081,Positif
+32,Keren banget kualitasnya,keren kualitas,very cool quality,0.0,0.435,0.565,0.3804,Positif
+33,Recommended sih pembeliannya,rekomendasi beli,I recommend purchasing,0.0,0.444,0.556,0.3612,Positif
+34,Suka pokoknya pembeliannya,suka pokok beli,I really like the purchase,0.0,0.589,0.411,0.4201,Positif
+35,Suka banget sih,suka,I really like it,0.0,0.518,0.482,0.4201,Positif
+36,"Gimana ini dong, cacat",cacat,how is this flawed?,0.547,0.453,0.0,-0.561,Negatif
+37,"Kenapa jadi gini nih, ga sesuai ekspektasi",tidak sesuai ekspektasi,"why is it like this, it doesn't match expectations",0.0,0.762,0.238,0.3612,Positif
+38,Bagus nih kualitasnya,bagus kualitas,this is good quality,0.0,0.508,0.492,0.4404,Positif
+39,"Kok bisa gini deh, mengecewakan",kecewa,How can this be so disappointing?,0.452,0.548,0.0,-0.6269,Negatif
+40,Mantap ternyata palsu barangnya!,mantap palsu barang,"great, it turns out to be fake",0.254,0.41,0.336,0.25,Positif
+41,Worth it lah pelayanannya,padan it layan,the service is worth it,0.0,0.678,0.322,0.2263,Positif
+42,Oke banget sih produknya,produk,the product is very good,0.0,0.556,0.444,0.4927,Positif
+43,Oke deh kualitasnya,kualitas,good quality,0.0,0.256,0.744,0.4404,Positif
+44,Suka banget sih tokonya,suka toko,I really like the shop,0.0,0.589,0.411,0.4201,Positif
+45,"Gimana nih dong, mengecewakan",kecewa,How is this disappointing?,0.556,0.444,0.0,-0.5789,Negatif
+46,Recommended banget tokonya,rekomendasi toko,highly recommended shop,0.0,0.489,0.511,0.2716,Positif
+47,Top memang pelayanannya,baik layan,the best service indeed,0.0,0.417,0.583,0.6369,Positif
+48,Recommended banget sih produknya,rekomendasi produk,The product is highly recommended,0.0,0.656,0.344,0.2716,Positif
+49,Recommended banget sih kualitasnya,rekomendasi kualitas,Highly recommended quality,0.0,0.489,0.511,0.2716,Positif
+50,"Ga kecewa kok, justru wow!",tidak kecewa wow,"I'm not disappointed, actually wow",0.356,0.348,0.296,-0.1326,Negatif
+51,"Kenapa gini, ga sesuai pesanan",tidak sesuai pesan,why is this not as ordered?,0.0,1.0,0.0,0.0,Netral
+52,"Kok gini deh, ga sesuai ukuran",tidak sesuai ukur,How come it's not the right size?,0.0,1.0,0.0,0.0,Netral
+53,Bagus banget gw,bagus,very good to me,0.0,0.484,0.516,0.4927,Positif
+54,Oke memang kualitasnya,kualitas,good quality indeed,0.0,0.408,0.592,0.4404,Positif
+55,Top sih barangnya,baik barang,the best stuff,0.0,0.323,0.677,0.6369,Positif
+56,Memuaskan sih pelayanannya,muas layan,the service is satisfying,0.0,0.5,0.5,0.4588,Positif
+57,"Gimana ini, ga sesuai pesanan",tidak sesuai pesan,how is this not according to order,0.0,1.0,0.0,0.0,Netral
+58,Oke banget sih seller,jual,very good seller,0.0,0.385,0.615,0.4927,Positif
+59,"Ga cacat, malah sempurna!",tidak cacat sempurna,not flawed but perfect,0.514,0.257,0.229,-0.4973,Negatif
+60,"Mantap jiwa, mantap bikin nyesel!",mantap jiwa mantap bikin sesal,"steady soul, steady soul, makes you regret it",0.286,0.714,0.0,-0.4215,Negatif
+61,"Deskripsi bilang premium, kenyataannya murahan!",deskripsi bilang premium nyata murah,the description says premium is actually cheap,0.0,1.0,0.0,0.0,Netral
+62,Kok ga sama kayak foto,tidak kayak foto,why is it not the same as the photo?,0.0,1.0,0.0,0.0,Netral
+63,Pelayanan terbaik! Barang juga berkualitas tinggi.,layan baik barang kualitas,"the best service, the goods are also of high quality",0.0,0.682,0.318,0.6369,Positif
+64,"Tidak rugi, sangat memuaskan!",tidak rugi muas,no loss is very satisfying,0.0,0.363,0.637,0.6434,Positif
+65,"Standar aja, tidak mengecewakan tapi juga tidak wow.",standar tidak kecewa tidak wow,the standard doesn't disappoint but it doesn't wow either,0.323,0.55,0.128,-0.5391,Negatif
+66,Keren sih tokonya,keren toko,what a cool shop,0.0,0.566,0.434,0.3182,Positif
+67,"Gimana nih ya, ga sama",tidak,how come it's not the same?,0.0,1.0,0.0,0.0,Netral
+68,"Kok bisa gini sih, kecewa parah",kecewa parah,How can you be so disappointed like this?,0.313,0.47,0.218,-0.2989,Negatif
+69,"Kenapa gini deh, ga sama",tidak,why isn't this the same?,0.0,1.0,0.0,0.0,Netral
+70,Impressive! Impressively bad service!,impressive impressively bad service,impressively impressively bad service,0.333,0.095,0.571,0.3612,Positif
+71,"Kenapa jadi gini nih, beda banget",beda,why is it so different like this?,0.0,0.683,0.317,0.4173,Positif
+72,"Gimana nih ya, ga sesuai deskripsi",tidak sesuai deskripsi,How come it doesn't match the description?,0.0,1.0,0.0,0.0,Netral
+73,Recommended deh pelayanannya,rekomendasi layan,service is recommended,0.0,0.526,0.474,0.2023,Positif
+74,Memuaskan banget sih pembeliannya,muas beli,Very satisfied with the purchase,0.0,0.564,0.436,0.4754,Positif
+75,Oke banget sih kualitasnya,kualitas,the quality is very good,0.0,0.556,0.444,0.4927,Positif
+76,"Tidak murahan kok, recommended!",tidak murah rekomendasi,"it's not cheap, it's recommended",0.285,0.715,0.0,-0.1511,Negatif
+77,Bagus gitu seller,bagus jual,so good seller,0.0,0.385,0.615,0.4927,Positif
+78,Puas banget gw pembeliannya,puas beli,I am very satisfied with my purchase,0.0,0.66,0.34,0.4754,Positif
+79,"Top ratingnya, jelek barangnya!",baik ratingnya jelek barang,the best rating is bad stuff,0.299,0.342,0.359,0.1779,Positif
+80,"Gorgeous foto, garbage aslinya!",gorgeous foto garbage asli,Gorgeous original garbage photo,0.0,0.241,0.759,0.743,Positif
+81,Netral banget pendapat gw.,netral dapat,My opinion is very neutral,0.0,1.0,0.0,0.0,Netral
+82,"Cacat? Engga, mulus banget!",cacat engga mulus,the defects are not very smooth,0.351,0.649,0.0,-0.4019,Negatif
+83,Recommended pokoknya pelayanannya,rekomendasi pokok layan,Highly recommended service,0.0,0.489,0.511,0.2716,Positif
+84,Bagus banget sih kualitasnya,bagus kualitas,the quality is very good,0.0,0.556,0.444,0.4927,Positif
+85,"Gimana ini nih, ga sesuai foto",tidak sesuai foto,How come this doesn't match the photo?,0.0,1.0,0.0,0.0,Netral
+86,"Gimana nih deh, ga sesuai pesanan",tidak sesuai pesan,How come it doesn't match the order?,0.0,1.0,0.0,0.0,Netral
+87,Ga sesuai foto produk,tidak sesuai foto produk,does not match the product photo,0.0,1.0,0.0,0.0,Netral
+88,Barang sampai dengan cepat dan kondisi sempurna. Recommended!,barang cepat kondisi sempurna rekomendasi,"Item arrived quickly and in perfect condition, recommended",0.0,0.522,0.478,0.6705,Positif
+89,"Kualitas juara, harga terjangkau. Best seller deh!",kualitas juara harga jangkau baik jual,"Champion quality, affordable price, best seller",0.0,0.331,0.669,0.8442,Positif
+90,"Kenapa jadi gini deh, ga sesuai deskripsi",tidak sesuai deskripsi,"why is it like this, it doesn't match the description",0.0,0.783,0.217,0.3612,Positif
+91,Suka banget sih kualitasnya,suka kualitas,really like the quality,0.0,0.518,0.482,0.4201,Positif
+92,Keren banget nih pelayanannya,keren layan,This service is really cool,0.0,0.607,0.393,0.3804,Positif
+93,"Amazing banget, amazingly jelek!",amazing amazingly jelek,amazing very amazingly ugly,0.4,0.207,0.393,-0.0184,Netral
+94,"Gimana ya dong, ga sesuai ukuran",tidak sesuai ukur,How come it's not the right size?,0.0,1.0,0.0,0.0,Netral
+95,Worth it banget nih tokonya,padan it toko,This shop is really worth it,0.0,0.695,0.305,0.2944,Positif
+96,"Reviewnya positif semua, kok gw dapat yang jelek?",reviewnya positif jelek,"The reviews are all positive, but I got the bad ones",0.296,0.561,0.143,-0.5346,Negatif
+97,Top lah pelayanannya,baik layan,the best service,0.0,0.323,0.677,0.6369,Positif
+98,"Kenapa gini ya, ga sama",tidak,why is this not the same?,0.0,1.0,0.0,0.0,Netral
+99,Half good half bad lah.,half good half bad,half good half bad,0.417,0.238,0.345,-0.1531,Negatif
+100,Worth it sih seller,padan it jual,"It's worth it, seller",0.0,0.612,0.388,0.2263,Positif
+101,Recommended banget produknya,rekomendasi produk,highly recommended product,0.0,0.489,0.511,0.2716,Positif
+102,"Impressive foto, depressing aslinya!",impressive foto depressing asli,impressive original depressing photo,0.283,0.109,0.609,0.4588,Positif
+103,"Kenapa gini, zonk banget",kecewa,why is this so disappointing?,0.507,0.493,0.0,-0.6269,Negatif
+104,Puas emang pembeliannya,puas beli,really satisfied with the purchase,0.0,0.564,0.436,0.4754,Positif
+105,Recommended sekali untuk ga beli!,rekomendasi tidak beli,highly recommended not to buy,0.0,0.656,0.344,0.2716,Positif
+106,Mantap deh,mantap,that's great,0.0,0.196,0.804,0.6249,Positif
+107,Excellent! Excellently bad!,excellent excellently bad,excellent excellently bad,0.31,0.0,0.69,0.6486,Positif
+108,Keren lah,keren,that's cool,0.0,0.303,0.697,0.3182,Positif
+109,"Janji customer service baik, kenyataan diabaikan!",janji customer service nyata abai,Promises of good customer service are in fact ignored,0.167,0.435,0.399,0.4939,Positif
+110,Bagus gitu pelayanannya,bagus layan,so good service,0.0,0.385,0.615,0.4927,Positif
+111,Mantap banget gw barangnya,mantap barang,I really like the item,0.0,0.589,0.411,0.4201,Positif
+112,"Tidak nyesel, sangat puas!",tidak sesal puas,no regrets very satisfied,0.0,0.278,0.722,0.6373,Positif
+113,"Standar aja sih, tidak ada yang istimewa dari produk ini.",standar tidak istimewa produk,"It's just standard, there's nothing special about this product",0.22,0.78,0.0,-0.3089,Negatif
+114,Luar biasa kenyataannya buruk!,nyata buruk,extraordinary the reality is bad,0.467,0.533,0.0,-0.5423,Negatif
+115,"Bukan rusak, tapi bagus!",bukan rusak bagus,not broken but good,0.451,0.29,0.258,-0.3252,Negatif
+116,Mantap banget nih produknya,mantap produk,this product is really great,0.0,0.477,0.523,0.659,Positif
+117,Tidak wow tapi juga tidak zonk.,tidak wow tidak kecewa,not wow but also not disappointing,0.215,0.422,0.363,0.3412,Positif
+118,"Ga jelek, malah bagus banget!",tidak jelek bagus,"not bad, actually very good",0.0,0.332,0.668,0.7221,Positif
+119,"Gimana nih nih, kecewa parah",kecewa parah,How come I'm so disappointed?,0.499,0.501,0.0,-0.6113,Negatif
+120,Oke memang produknya,produk,good product indeed,0.0,0.408,0.592,0.4404,Positif
+121,"Kenapa gini sih, ga sesuai deskripsi",tidak sesuai deskripsi,why does this not match the description?,0.0,1.0,0.0,0.0,Netral
+122,"Kenapa bisa gini ya, kecewa parah",kecewa parah,why is it like this? I'm so disappointed,0.32,0.48,0.2,-0.3593,Negatif
+123,"Kok gini sih, zonk banget",kecewa,How come this is so disappointing?,0.452,0.548,0.0,-0.6269,Negatif
+124,Worth it deh,padan it,it's worth it,0.0,0.513,0.487,0.2263,Positif
+125,"Kok jadi gini sih, buruk parah",buruk parah,How come it's so bad?,0.529,0.471,0.0,-0.6696,Negatif
+126,"Bagus di foto, cacat aslinya!",bagus foto cacat asli,good in photo with original defects,0.248,0.275,0.477,0.3612,Positif
+127,"Kenapa jadi gini nih, cacat",cacat,why is it so flawed?,0.499,0.501,0.0,-0.6113,Negatif
+128,Recommended nih pembeliannya,rekomendasi beli,This purchase is recommended,0.0,0.625,0.375,0.2023,Positif
+129,Puas gitu nih,puas,I'm so satisfied,0.0,0.393,0.607,0.4754,Positif
+130,Gimana nih jelek banget,jelek,how is this so bad?,0.529,0.471,0.0,-0.6696,Negatif
+131,Bagus sih pelayanannya,bagus layan,the service is good,0.0,0.508,0.492,0.4404,Positif
+132,Senang sekali dikasih sampah!,senang kasih sampah,I'm so happy to be given rubbish,0.0,0.6,0.4,0.6115,Positif
+133,Oke banget nih kualitasnya,kualitas,the quality is very good,0.0,0.556,0.444,0.4927,Positif
+134,"Gimana ya, ga sesuai gambar",tidak sesuai gambar,what doesn't match the picture?,0.0,1.0,0.0,0.0,Netral
+135,"Keren, keren cacat produknya!",keren keren cacat produk,cool cool product defects,0.325,0.12,0.554,0.2263,Positif
+136,"Tidak rugi beli ini, malah untung banget!",tidak rugi beli untung,"There's no loss in buying this, it's actually a great profit",0.0,0.472,0.528,0.8386,Positif
+137,Mantap memang produknya,mantap produk,it's a great product,0.0,0.423,0.577,0.6249,Positif
+138,"Ga mengecewakan kok, justru bagus!",tidak kecewa bagus,"it doesn't disappoint, it's actually good",0.0,0.437,0.563,0.6319,Positif
+139,"Kenapa bisa gini ya, buruk parah",buruk parah,"why can it be like this, it's so bad",0.321,0.5,0.179,-0.4572,Negatif
+140,Mantap nih tokonya,mantap toko,this shop is great,0.0,0.423,0.577,0.6249,Positif
+141,"Ga murahan, malah premium!",tidak murah premium,"not cheap, but premium",0.0,1.0,0.0,0.0,Netral
+142,Best seller! Best in selling trash!,baik jual baik in selling trash,best best seller in selling trash,0.0,0.323,0.677,0.8555,Positif
+143,"Kok gini sih, ga sama",tidak,how come it's not the same?,0.0,1.0,0.0,0.0,Netral
+144,"Palsu kata orang, ternyata ori!",palsu orang ori,"people say it's fake, it turns out it's original",0.25,0.565,0.185,-0.2023,Negatif
+145,"Gimana ya ya, ga sesuai foto",tidak sesuai foto,How come it doesn't match the photo?,0.0,1.0,0.0,0.0,Netral
+146,"Gimana ya nih, zonk banget",kecewa,"How come, this is very disappointing",0.411,0.589,0.0,-0.5413,Negatif
+147,Buruk! Jahitan lepas-lepas dan bahan jelek.,buruk jahit lepas lepas bahan jelek,"Bad, loose stitching and bad material",0.756,0.244,0.0,-0.8519,Negatif
+148,"Sip banget, sip zonknya!",sip sip zonknya,sip really sip zonk,0.0,1.0,0.0,0.0,Netral
+149,"Kok bisa, ga sesuai deskripsi banget",tidak sesuai deskripsi,how come it doesn't really match the description?,0.0,1.0,0.0,0.0,Netral
+150,"Barang berkualitas, harga murah. Best deal ever!",barang kualitas harga murah baik deal ever,"Quality goods, cheap prices, the best deal ever",0.0,0.625,0.375,0.6369,Positif
+151,Mantap sih ini,mantap,this is great,0.0,0.328,0.672,0.6249,Positif
+152,"Kenapa gini dong, cacat",cacat,why is it so flawed?,0.499,0.501,0.0,-0.6113,Negatif
+153,Top banget gw seller,baik jual,my very best seller,0.0,0.4,0.6,0.6697,Positif
+154,"Oke banget, ya untuk harga segini.",harga gin,Very good for this price,0.0,0.556,0.444,0.4927,Positif
+155,"Top, tapi ya sesuai harga.",baik sesuai harga,the best but yes according to the price,0.0,0.494,0.506,0.7311,Positif
+156,Lumayan bagus tapi ada minor issue. Still acceptable.,lumayan bagus minor issue still acceptable,pretty good but there is a minor issue still acceptable,0.0,0.5,0.5,0.7184,Positif
+157,Buruk! Sudah rusak begitu dibuka packagingnya.,buruk rusak buka packagingnya,"Bad, it was damaged when I opened the packaging",0.478,0.522,0.0,-0.7506,Negatif
+158,Puas banget nih,puas,I'm very satisfied,0.0,0.393,0.607,0.4754,Positif
+159,Suka banget sih barangnya,suka barang,I really like the item,0.0,0.589,0.411,0.4201,Positif
+160,Recommended pokoknya pembeliannya,rekomendasi pokok beli,Highly recommended purchase,0.0,0.489,0.511,0.2716,Positif
+161,Mantap nih seller,mantap jual,great seller,0.0,0.196,0.804,0.6249,Positif
+162,"Oke lah ya, ga ngarep juga sih.",tidak ngarep,"OK, I'm not expecting that either",0.0,1.0,0.0,0.0,Netral
+163,Netral aja,netral,just neutral,0.0,1.0,0.0,0.0,Netral
+164,Oke nih kualitasnya,kualitas,this is good quality,0.0,0.508,0.492,0.4404,Positif
+165,"Kok gini nih, ga sesuai warna",tidak sesuai warna,How come the color doesn't match like this?,0.232,0.768,0.0,-0.2755,Negatif
+166,"Kok bisa gini nih, zonk banget",kecewa,How can this be so disappointing?,0.452,0.548,0.0,-0.6269,Negatif
+167,Puas pokoknya seller,puas pokok jual,Satisfied with the seller,0.0,0.517,0.483,0.4215,Positif
+168,"Gimana ini dong, ga sesuai ukuran",tidak sesuai ukur,How come this doesn't fit the size?,0.26,0.74,0.0,-0.2755,Negatif
+169,Top banget deh kualitasnya,baik kualitas,very best quality,0.0,0.308,0.692,0.6697,Positif
+170,Gimana ni rusak semua produknya,ni rusak produk,How did this damage all the products?,0.385,0.615,0.0,-0.5789,Negatif
+171,"Oke banget, oke mengecewakan!",kecewa,good very good disappointing,0.329,0.095,0.576,0.3848,Positif
+172,Standar banget produknya.,standar produk,very standard product,0.0,1.0,0.0,0.0,Netral
+173,Kok berbeda jauh dari deskripsi,beda deskripsi,how come it's so different from the description?,0.0,1.0,0.0,0.0,Netral
+174,Mantap lah,mantap,that's great,0.0,0.196,0.804,0.6249,Positif
+175,Memuaskan banget deh barangnya,muas barang,Very satisfying item,0.0,0.378,0.622,0.5095,Positif
+176,Suka lah barangnya,suka barang,I like things,0.0,0.444,0.556,0.3612,Positif
+177,"Sesuai prediksi, biasa.",sesuai prediksi,according to normal predictions,0.0,1.0,0.0,0.0,Netral
+178,"Bagus sekali, bagus bikin kecewa!",bagus bagus bikin kecewa,"very good, very good, disappointing",0.287,0.165,0.548,0.489,Positif
+179,"Kok bisa gini dong, ga sesuai pesanan",tidak sesuai pesan,How come it doesn't match the order?,0.0,1.0,0.0,0.0,Netral
+180,"Kok bisa gini sih, ga sama",tidak,how come it's not the same?,0.0,1.0,0.0,0.0,Netral
+181,Keren sih pelayanannya,keren layan,really cool service,0.0,0.435,0.565,0.3804,Positif
+182,"Lovely deskripsi, lousy produk!",lovely deskripsi lousy produk,lovely lousy product description,0.376,0.215,0.409,0.0772,Positif
+183,Suka deh produknya,suka produk,I like the product,0.0,0.545,0.455,0.3612,Positif
+184,Oke banget nih pembeliannya,beli,this is a very good purchase,0.0,0.61,0.39,0.4927,Positif
+185,Mengecewakan! Barang tidak sesuai spesifikasi yang dijanjikan.,kecewa barang tidak sesuai spesifikasi janji,Disappointing that the goods do not match the specifications promised,0.234,0.584,0.182,-0.1779,Negatif
+186,Memuaskan sih seller,muas jual,the seller is satisfied,0.0,0.517,0.483,0.4215,Positif
+187,Suka deh pembeliannya,suka beli,I like the purchase,0.0,0.545,0.455,0.3612,Positif
+188,"Gimana ini ya, ga sesuai gambar",tidak sesuai gambar,How come this doesn't match the picture?,0.0,1.0,0.0,0.0,Netral
+189,"Ga percaya review positif, tapi ternyata beneran bagus!",tidak percaya review positif beneran bagus,didn't believe the positive reviews but it turned out to be really good,0.114,0.638,0.249,0.5151,Positif
+190,"Bukan rugi kok, malah profit!",bukan rugi profit,"It's not a loss, it's actually a profit",0.0,0.552,0.448,0.5943,Positif
+191,Bagus pokoknya pelayanannya,bagus pokok layan,really good service,0.0,0.385,0.615,0.4927,Positif
+192,"Suka, suka banget barang cacat!",suka suka barang cacat,I really like defective items,0.354,0.334,0.311,-0.099,Negatif
+193,"Kok gini dong, jelek banget",jelek,Why is this so bad?,0.529,0.471,0.0,-0.6696,Negatif
+194,Worth it memang,padan it,it's worth it indeed,0.0,0.612,0.388,0.2263,Positif
+195,"Gimana nih deh, buruk parah",buruk parah,how bad is this?,0.538,0.462,0.0,-0.5423,Negatif
+196,"Ga nyesel kok, justru puas!",tidak sesal puas,"I don't regret it, I'm actually satisfied",0.0,0.493,0.507,0.6288,Positif
+197,"Kenapa bisa gini deh, ga cocok",tidak cocok,why is it that it doesn't fit like this?,0.376,0.624,0.0,-0.4973,Negatif
+198,Suka nih pelayanannya,suka layan,I like this service,0.0,0.545,0.455,0.3612,Positif
+199,Suka banget deh pembeliannya,suka beli,really like the purchase,0.0,0.518,0.482,0.4201,Positif
+200,"Gimana ini sih, cacat",cacat,how is this flawed?,0.547,0.453,0.0,-0.561,Negatif
+201,"Recommended, recommended buat dihindari!",rekomendasi rekomendasi hindar,recommended recommended to be avoided,0.3,0.25,0.45,0.0516,Positif
+202,Top memang produknya,baik produk,the best product indeed,0.0,0.417,0.583,0.6369,Positif
+203,Keren sih ini,keren,this is cool,0.0,0.465,0.535,0.3182,Positif
+204,Worth it nih produknya,padan it produk,This product is worth it,0.0,0.678,0.322,0.2263,Positif
+205,Keren banget gw tokonya,keren toko,"Very cool, my shop",0.0,0.536,0.464,0.3804,Positif
+206,Worth it lah pembeliannya,padan it beli,it's worth the purchase,0.0,0.612,0.388,0.2263,Positif
+207,Top lah,baik,it's the best,0.0,0.323,0.677,0.6369,Positif
+208,"Kualitas sangat buruk, tidak sesuai harga yang dibayar.",kualitas buruk tidak sesuai harga bayar,very bad quality does not match the price paid,0.322,0.678,0.0,-0.5849,Negatif
+209,Recommended lah pembeliannya,rekomendasi beli,Recommended purchase,0.0,0.357,0.643,0.2023,Positif
+210,"Kok bisa gini sih, ga sesuai deskripsi",tidak sesuai deskripsi,How come this doesn't match the description?,0.0,1.0,0.0,0.0,Netral
+211,"Gimana nih deh, jelek banget",jelek,how is this so ugly?,0.515,0.485,0.0,-0.6418,Negatif
+212,Puas nih sama produknya,puas produk,I'm satisfied with the product,0.0,0.588,0.412,0.4215,Positif
+213,"Kok bisa gini deh, rusak semua",rusak,How can everything be damaged like this?,0.279,0.481,0.24,-0.1027,Negatif
+214,"Lumayan aja, buat pemakaian biasa cukup.",lumayan pakai,just fine for normal use,0.0,0.69,0.31,0.2023,Positif
+215,"Gimana ya dong, kecewa parah",kecewa parah,"How come, I'm really disappointed",0.459,0.541,0.0,-0.5256,Negatif
+216,"Bukan palsu kok, malah authentic!",bukan palsu authentic,"It's not fake, it's actually authentic",0.0,0.662,0.338,0.3724,Positif
+217,Mantap pokoknya seller,mantap pokok jual,really great seller,0.0,0.313,0.687,0.659,Positif
+218,"Kenapa jadi gini ya, jelek banget",jelek,"why is it like this, it's so ugly",0.333,0.471,0.196,-0.4101,Negatif
+219,Oke gitu seller,jual,ok so seller,0.0,0.476,0.524,0.296,Positif
+220,"Plus minus sih, fifty fifty.",plus minus fifty fifty,plus or minus fifty fifty,0.0,1.0,0.0,0.0,Netral
+221,Top memang kualitasnya,baik kualitas,the best is the quality,0.0,0.488,0.512,0.6369,Positif
+222,"Ga nyesel, malah senang banget beli!",tidak sesal senang beli,"I don't regret it, I'm really happy I bought it",0.0,0.558,0.442,0.745,Positif
+223,"Gimana ini deh, jelek banget",jelek,how is this so bad?,0.529,0.471,0.0,-0.6696,Negatif
+224,Oke deh pembeliannya,beli,okay purchase,0.0,0.345,0.655,0.2263,Positif
+225,"Keren deskripsinya, jelek barangnya!",keren deskripsi jelek barang,"cool, bad description of the item",0.357,0.408,0.235,-0.296,Negatif
+226,Top emang tokonya,baik toko,the best shop,0.0,0.323,0.677,0.6369,Positif
+227,"Gimana ya sih, ga sesuai pesanan",tidak sesuai pesan,How come it doesn't match the order?,0.0,1.0,0.0,0.0,Netral
+228,Senang lah produknya,senang produk,happy with the product,0.0,0.448,0.552,0.5719,Positif
+229,Bagus sih,bagus,that's good,0.0,0.256,0.744,0.4404,Positif
+230,Suka emang,suka,really like it,0.0,0.417,0.583,0.4201,Positif
+231,"Kenapa jadi gini deh, rusak semua",rusak,why is it all broken like this?,0.292,0.472,0.236,-0.1531,Negatif
+232,"Kok bisa gini nih, jelek banget",jelek,How can this be so bad?,0.473,0.527,0.0,-0.6696,Negatif
+233,Senang memang barangnya,senang barang,happy indeed,0.0,0.213,0.787,0.5719,Positif
+234,Suka banget nih seller,suka jual,I really like this seller,0.0,0.589,0.411,0.4201,Positif
+235,Sangat kecewa! Barang tidak berfungsi sama sekali.,kecewa barang tidak fungsi,Very disappointed the item doesn't work at all,0.326,0.674,0.0,-0.5256,Negatif
+236,"Gimana ini dong, ga sesuai warna",tidak sesuai warna,How come this doesn't match the color?,0.0,1.0,0.0,0.0,Netral
+237,"Kenapa gini deh, beda banget",beda,why is this so different?,0.0,1.0,0.0,0.0,Netral
+238,Memuaskan nih tokonya,muas toko,This shop is satisfactory,0.0,0.545,0.455,0.3612,Positif
+239,Bagus pokoknya produknya,bagus pokok produk,really good product,0.0,0.385,0.615,0.4927,Positif
+240,Suka sih,suka,I like it,0.0,0.444,0.556,0.3612,Positif
+241,"Kenapa gini nih, ga sesuai deskripsi",tidak sesuai deskripsi,why does this not match the description?,0.0,1.0,0.0,0.0,Netral
+242,Memuaskan lah produknya,muas produk,the product is satisfactory,0.0,0.545,0.455,0.3612,Positif
+243,Memuaskan banget pelayanannya,muas layan,very satisfying service,0.0,0.378,0.622,0.5095,Positif
+244,"Kok jadi gini nih, ga sesuai gambar",tidak sesuai gambar,How come it doesn't match the picture like this?,0.0,0.762,0.238,0.3612,Positif
+245,Oke banget sih tokonya,toko,the shop is very good,0.0,0.556,0.444,0.4927,Positif
+246,Bagus banget ini pelayanannya,bagus layan,this is very good service,0.0,0.556,0.444,0.4927,Positif
+247,"Kenapa bisa gini sih, zonk banget",kecewa,Why is this so disappointing?,0.507,0.493,0.0,-0.6269,Negatif
+248,Bagus banget sih,bagus,really good,0.0,0.238,0.762,0.4927,Positif
+249,"Netral aja sih, ga suka ga benci juga.",netral tidak suka tidak benci,"I'm just neutral, I don't like it, I don't hate it either",0.14,0.662,0.198,0.2235,Positif
+250,"Kok jadi gini sih, ga sesuai ukuran",tidak sesuai ukur,"How come it's like this, it's not the right size",0.0,0.783,0.217,0.3612,Positif
+251,Memuaskan banget pokoknya,muas pokok,very satisfying indeed,0.0,0.378,0.622,0.5095,Positif
+252,"Gimana nih sih, ga cocok",tidak cocok,how come it doesn't fit?,0.345,0.655,0.0,-0.2755,Negatif
+253,Mantap lah seller,mantap jual,great seller,0.0,0.196,0.804,0.6249,Positif
+254,"Gimana nih sih, ga sama",tidak,how come it's not the same?,0.0,1.0,0.0,0.0,Netral
+255,"Gila nih barang, gila bagusnya maksudnya!",gila barang gila bagus maksud,"It's crazy, it's crazy, it's good",0.449,0.28,0.271,-0.2263,Negatif
+256,Tidak akan kecewa? Bohong. Justru sangat puas!,tidak kecewa bohong puas,"I won't be disappointed, I'm actually very satisfied",0.0,0.515,0.485,0.6855,Positif
+257,Memuaskan sih barangnya,muas barang,I'm satisfied with the item,0.0,0.588,0.412,0.4215,Positif
+258,"Gimana ini deh, cacat",cacat,how is this flawed?,0.547,0.453,0.0,-0.561,Negatif
+259,"Gimana ini deh, ga sesuai pesanan",tidak sesuai pesan,How come this doesn't match the order?,0.0,1.0,0.0,0.0,Netral
+260,Top banget ini tokonya,baik toko,this is the best shop,0.0,0.488,0.512,0.6369,Positif
+261,"Kenapa bisa gini nih, ga sesuai warna",tidak sesuai warna,Why is it that the color doesn't match like this?,0.19,0.81,0.0,-0.2755,Negatif
+262,Marvelous! Marvelously terrible!,marvelous marvelously terrible,marvelous marvelously terrible,0.388,0.125,0.487,0.2023,Positif
+263,"Lumayan untuk daily use, tapi bukan yang terbaik.",lumayan daily use bukan baik,OK for daily use but not the best,0.364,0.479,0.157,-0.5552,Negatif
+264,Mantap sih barangnya,mantap barang,it's great stuff,0.0,0.328,0.672,0.6249,Positif
+265,"Gimana nih dong, ga sama",tidak,how come it's not the same?,0.0,1.0,0.0,0.0,Netral
+266,Suka nih,suka,like this,0.0,0.286,0.714,0.3612,Positif
+267,Recommended banget nih tokonya,rekomendasi toko,This shop is highly recommended,0.0,0.656,0.344,0.2716,Positif
+268,"Ga nyesel, malah senang banget!",tidak sesal senang,"I don't regret it, I'm really happy",0.0,0.442,0.558,0.745,Positif
+269,"Wow foto menarik, aslinya rusak!",wow foto tarik asli rusak,"wow interesting photo, the original is damaged",0.197,0.204,0.599,0.7096,Positif
+270,Worth it deh produknya,padan it produk,the product is worth it,0.0,0.678,0.322,0.2263,Positif
+271,Keren banget gw,keren,very cool to me,0.0,0.536,0.464,0.3804,Positif
+272,"Barang original, packaging aman dan rapi. Mantap!",barang original packaging aman rapi mantap,"original product, safe and neat packaging",0.0,0.268,0.732,0.802,Positif
+273,Bagus nih pelayanannya,bagus layan,this is good service,0.0,0.508,0.492,0.4404,Positif
+274,Biasa aja sih,,it's just normal,0.0,1.0,0.0,0.0,Netral
+275,"Wow, ga sesuai ekspektasi sama sekali. Kecewa!",wow tidak sesuai ekspektasi kecewa,"wow, not as expected, totally disappointed",0.303,0.357,0.339,0.1045,Positif
+276,"Kok bisa gini dong, ga sama",tidak,How come it's not the same like this?,0.232,0.768,0.0,-0.2755,Negatif
+277,Terrible? Terribly good! Puas banget!,terrible terribly good puas,terrible terrible good very satisfied,0.47,0.076,0.454,-0.0534,Negatif
+278,Mantap pokoknya pelayanannya,mantap pokok layan,great service,0.0,0.196,0.804,0.6249,Positif
+279,Mantap banget ini pelayanannya,mantap layan,This service is really great,0.0,0.477,0.523,0.659,Positif
+280,"Kenapa jadi gini, kecewa parah",kecewa parah,why are you so disappointed?,0.499,0.501,0.0,-0.6113,Negatif
+281,"Kok bisa gini dong, kecewa parah",kecewa parah,How can you be so disappointed?,0.444,0.556,0.0,-0.6113,Negatif
+282,Gimana ya zonk total,kecewa total,what a total disappointment,0.545,0.455,0.0,-0.5563,Negatif
+283,"Kenapa bisa gini, ga sesuai foto",tidak sesuai foto,How come this doesn't match the photo?,0.0,1.0,0.0,0.0,Netral
+284,Keren lah kualitasnya,keren kualitas,cool quality,0.0,0.303,0.697,0.3182,Positif
+285,Puas deh pelayanannya,puas layan,satisfied with the service,0.0,0.517,0.483,0.4215,Positif
+286,Kok gini? Ga sesuai pesanan!,tidak sesuai pesan,How come this doesn't match the order?,0.0,1.0,0.0,0.0,Netral
+287,"Gimana nih sih, ga sesuai warna",tidak sesuai warna,How come the color doesn't match?,0.0,1.0,0.0,0.0,Netral
+288,Kualitas premium! Harga juga masih affordable.,kualitas premium harga affordable,"Premium quality, price is still affordable",0.0,1.0,0.0,0.0,Netral
+289,"Amazing, amazingly bad!",amazing amazingly bad,amazingly amazingly bad,0.671,0.329,0.0,-0.6214,Negatif
+290,Oke emang pelayanannya,layan,good service indeed,0.0,0.408,0.592,0.4404,Positif
+291,"Ya gitu, ada yang oke ada yang kurang.",kurang,"Yes, there is something good, there is something lacking",0.0,0.556,0.444,0.6808,Positif
+292,"Kenapa bisa gini ya, ga sesuai ekspektasi",tidak sesuai ekspektasi,How come this doesn't match expectations?,0.0,1.0,0.0,0.0,Netral
+293,"Biasa aja sih, produk standar.",produk standar,just a standard product,0.0,1.0,0.0,0.0,Netral
+294,Recommended pokoknya tokonya,rekomendasi pokok toko,Recommended shop anyway,0.0,0.526,0.474,0.2023,Positif
+295,"Kok bisa gini ya, ga pas",tidak pas,"how can it be like this, it's not right",0.0,0.762,0.238,0.3612,Positif
+296,Suka banget gw pembeliannya,suka beli,I really like my purchase,0.0,0.589,0.411,0.4201,Positif
+297,"Kok jadi gini dong, jelek banget",jelek,How come it's so ugly like this?,0.353,0.416,0.231,-0.3534,Negatif
+298,"Kenapa gini sih, ga pas",tidak pas,why is this not right?,0.0,1.0,0.0,0.0,Netral
+299,Senang memang,senang,happy indeed,0.0,0.213,0.787,0.5719,Positif
+300,"Kok jadi gini, ga sesuai deskripsi",tidak sesuai deskripsi,How come it doesn't match the description?,0.0,1.0,0.0,0.0,Netral

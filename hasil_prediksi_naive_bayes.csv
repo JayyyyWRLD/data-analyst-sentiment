@@ -1,0 +1,61 @@
+﻿cleaned_komentar,label_aktual,label_prediksi,status_prediksi
+suka,Positif,Positif,Benar
+gila barang gila bagus maksud,Negatif,Positif,Salah
+tidak sesuai warna,Negatif,Netral,Salah
+bukan rusak bagus,Negatif,Positif,Salah
+tidak sesuai ukur,Netral,Netral,Benar
+kecewa,Negatif,Negatif,Benar
+jual,Positif,Positif,Benar
+tidak sesuai pesan,Netral,Netral,Benar
+janji customer service nyata abai,Positif,Negatif,Salah
+standar tidak istimewa produk,Negatif,Netral,Salah
+padan it toko,Positif,Positif,Benar
+baik layan,Positif,Positif,Benar
+puas produk,Positif,Positif,Benar
+bagus kualitas,Positif,Positif,Benar
+suka beli,Positif,Positif,Benar
+suka toko,Positif,Positif,Benar
+kualitas,Positif,Positif,Benar
+harga gin,Positif,Positif,Benar
+rekomendasi pokok beli,Positif,Positif,Benar
+bukan jelek mantap,Positif,Positif,Benar
+toko,Positif,Positif,Benar
+plus minus fifty fifty,Netral,Positif,Salah
+tidak kecewa bagus,Positif,Positif,Benar
+tidak sesuai deskripsi,Netral,Netral,Benar
+rekomendasi beli,Positif,Positif,Benar
+tidak sesuai gambar,Netral,Netral,Benar
+amazing amazingly jelek,Netral,Negatif,Salah
+muas layan,Positif,Positif,Benar
+tidak sesuai ukur,Netral,Netral,Benar
+puas,Positif,Positif,Benar
+mantap jiwa mantap bikin sesal,Negatif,Positif,Salah
+senang,Positif,Positif,Benar
+rekomendasi kualitas,Positif,Positif,Benar
+jelek,Negatif,Negatif,Benar
+cacat engga mulus,Negatif,Negatif,Benar
+tidak pas,Positif,Netral,Salah
+kualitas premium harga affordable,Netral,Positif,Salah
+mantap pokok jual,Positif,Positif,Benar
+rekomendasi rekomendasi hindar,Positif,Positif,Benar
+bagus,Positif,Positif,Benar
+tidak sesuai deskripsi,Netral,Netral,Benar
+tidak sesuai gambar,Positif,Netral,Salah
+baik layan,Positif,Positif,Benar
+tidak sesuai warna,Positif,Netral,Salah
+rekomendasi produk,Positif,Positif,Benar
+terrible terribly good puas,Negatif,Positif,Salah
+tidak sesuai ekspektasi,Positif,Netral,Salah
+kecewa,Negatif,Negatif,Benar
+marvelous marvelously terrible,Positif,Positif,Benar
+tidak sesuai foto,Netral,Netral,Benar
+mantap palsu barang,Positif,Positif,Benar
+baik kualitas,Positif,Positif,Benar
+puas beli,Positif,Positif,Benar
+cacat,Negatif,Negatif,Benar
+puas pokok jual,Positif,Positif,Benar
+rekomendasi layan,Positif,Positif,Benar
+bukan cacat,Positif,Negatif,Salah
+kecewa parah,Negatif,Negatif,Benar
+suka suka barang cacat,Negatif,Positif,Salah
+tidak wow tidak kecewa,Positif,Negatif,Salah
